@@ -9,7 +9,7 @@ public class day1 {
 	}
 	@Test
 	public void test1() {
-		System.out.println("test1");
+		System.out.println("test1 ******");
 	
 	}
 	@Test(groups= {"smoke"})
