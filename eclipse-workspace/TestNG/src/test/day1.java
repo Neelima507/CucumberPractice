@@ -14,7 +14,7 @@ public class day1 {
 	}
 	@Test(groups= {"smoke"})
 	public void test2() {
-		System.out.println("test2");
+		System.out.println("test2 Thanksssssssssssssssssss");
 	
 	}
 	
