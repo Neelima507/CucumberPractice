@@ -17,7 +17,7 @@ public class day1 {
 		System.out.println("test2 Thanksssssssssssssssssss");}
 	@Test(groups= {"smoke"})
 	public void login() {
-		System.out.println("New feature added");}
+		System.out.println("New feature added   ***********");}
 	
 
 }
